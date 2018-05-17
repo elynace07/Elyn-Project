@@ -30,12 +30,12 @@ body {
 
 
 #dexterslab{
-	background: url("images/dexterslab.jpeg");
+	background: url("IMAGES/dexterslab.jpeg");
 	background-size: 25vw 25vh;
 }
 
 	#gundam{
-		background: url(images/gundam.jpeg);
+		background: url(IMAGES/gundam.jpeg);
 		background-size: cover;
 
 }
