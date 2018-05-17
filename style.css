@@ -1,0 +1,77 @@
+
+body {
+	color: yellow;
+	text-align: center;
+	/*background-color: blue;*/
+	height: 50vh;
+	/*background-size: 18%;*/
+
+}
+
+#tommyjerry{
+	width:200px; 
+	height:200px;
+	float: left;
+
+
+
+}
+
+
+
+#tomandjerry{
+	width:200px; 
+	height:200px;
+	float: right;
+
+	
+}
+
+
+
+#dexterslab{
+	background: url("images/dexterslab.jpeg");
+	background-size: 25vw 25vh;
+}
+
+	#gundam{
+		background: url(images/gundam.jpeg);
+		background-size: cover;
+
+}
+
+
+
+
+
+
+
+
+
+
+h1 {
+	color: Purple;
+	text-align: center;
+	background-color: White;
+	font-size:75px;
+	margin: 0 auto;
+}
+	
+
+p { 
+    text-align: center
+	background-color: blue;
+	color:blue;
+	font-size: 75px
+
+}
+
+img{margin: 0 auto;
+	width:  50vw; 
+	height: 50vh;
+}
+
+
+ol{margin: 30px;
+
+}
